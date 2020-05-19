@@ -8,6 +8,7 @@ This is some content that I've developed for my courses:
 
  - [Trump's Tweets](/trumpstweets/index.md)
 
- - [Sample Repository](https://github.com/swmcpherson19/sample)
+ - [Work Repository](https://github.com/swmcpherson19/Work)
 
+Hey!  Here's the dude who teaches us -- he's really smart!
  - [![Sorting Dictionary Data](https://img.youtube.com/vi/C3VJlPly_vs/0.jpg)](https://www.youtube.com/watch?v=C3VJlPly_vs)
