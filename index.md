@@ -1,6 +1,6 @@
 ---
 title: Scott McPherson Sr
-description: 
+description: Data Analyst and Student at the College of William and Mary
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
