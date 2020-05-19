@@ -8,4 +8,4 @@ This is some content that I've developed for my courses:
 
  - [Time Series Decomposition](/timeseries/index.md)
 
- -[Sample Reposition]()
+ -[Sample Repository](https://github.com/swmcpherson19/sample)
