@@ -10,4 +10,4 @@ This is some content that I've developed for my courses:
 
  - [Sample Repository](https://github.com/swmcpherson19/sample)
 
- - [![Sorting](https://img.youtube.com/v1/C3VJlPly_vs/0.jpg)](http://www.y0utube.com/watch?v=C3VJlPly_vs)
+ - [![Sorting Dictionary Data](https://img.youtube.com/v1/C3VJlPly_vs/0.jpg)](https://www.youtube.com/watch?v=C3VJlPly_vs)
